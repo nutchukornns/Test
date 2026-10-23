@@ -1,6 +1,6 @@
 def main():
     print("Hello GitHub!")
-    print("Test successful 🚀")
+    print("Add")
 
 if __name__ == "__main__":
     main()
